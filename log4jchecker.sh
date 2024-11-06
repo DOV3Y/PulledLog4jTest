@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# original source https://github.com/rubo77/log4j_checker_beta
 
 # needs locate to be installed, be sure to be up-to-date with
 # sudo updatedb
